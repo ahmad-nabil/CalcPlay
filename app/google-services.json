@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "685647726673",
+    "project_id": "calcplay-89283",
+    "storage_bucket": "calcplay-89283.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:685647726673:android:94f20c1aa32dee6ffb1070",
+        "android_client_info": {
+          "package_name": "com.ahmad.calcplay"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-SkC7xD2phUBqmEj02SogUNe155kDKmU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

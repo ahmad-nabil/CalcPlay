@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/files"
+        android:title="Files"
+        android:icon="@drawable/baseline_fil_list_24"
+        />
+    <item android:id="@+id/playurl"
+        android:title="play url"
+        android:icon="@drawable/baseline_play_arrow_24"
+        />
+    <item android:id="@+id/mainmenu"
+        android:title="main menu"
+        android:icon="@drawable/baseline_home_24"
+        />
+</menu>
